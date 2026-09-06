@@ -34,7 +34,7 @@ Drop the `HandyNotes_DiveBarCrawl` folder into `World of Warcraft/_retail_/Inter
 
 ## Notes
 
-Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official forum thread on the endeavor's locations, cross-checked against zone wiki pages; map IDs verified against existing published HandyNotes zone data.
+Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official forum thread on the endeavor's locations, cross-checked against zone wiki pages and Blizzard's own zone/map data.
 
 
 If you find my addons useful, consider supporting me on [Ko-fi](https://ko-fi.com/nerdybertie) — totally optional, but always appreciated! You can also find me on [Twitch](https://www.twitch.tv/nerdybertie), [YouTube](https://www.youtube.com/@nerdybertie), or [Discord](https://discord.gg/bXbMR6rzcF) - NerdyBertie's Tinker Workshop
