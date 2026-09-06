@@ -9,10 +9,9 @@
 --
 -- Locations sourced from the official Blizzard forum thread "Dive Bar Front
 -- Crawl Endeavor Locations" and cross-checked against Warcraft Wiki zone
--- pages. uiMapIDs verified against the HandyNotes: Battle for Azeroth
--- Treasures zone files (Tiragarde Sound, Drustvar, Stormsong Valley,
--- Zuldazar, Nazmir, Vol'dun, Nazjatar all confirmed) and the
--- handynotes-plugins Dragonflight zone files (Waking Shores, Azure Span).
+-- pages. uiMapIDs (Tiragarde Sound, Drustvar, Stormsong Valley, Zuldazar,
+-- Nazmir, Vol'dun, Nazjatar, The Waking Shores, The Azure Span) confirmed
+-- against Blizzard's own zone/map data.
 
 local addonName = ...
 local HandyNotes = LibStub("AceAddon-3.0"):GetAddon("HandyNotes")
