@@ -6,8 +6,8 @@
 ## RequiredDeps: HandyNotes
 ## OptionalDeps: TomTom
 ## IconTexture: Interface\Icons\INV_TortollanSeekers
-## X-Curse-Project-ID:
-## X-Wago-ID:
-## X-WoWI-ID:
+## X-Curse-Project-ID: 1683838
+## X-Wago-ID: Q6aR3BKW
+## X-WoWI-ID: 27200
 
 DiveBarCrawl.lua
