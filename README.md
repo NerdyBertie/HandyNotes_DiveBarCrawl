@@ -1,7 +1,7 @@
 # HandyNotes: Dive Bar Front Crawl
 
 
-<center><img width="854" height="854" alt="1ade57ac-0602-4de6-8bd8-a6bedccaee41" src="https://github.com/user-attachments/assets/40a32e54-29f7-4497-bd7b-1aa4e2c01c28" /></center>
+<center><img width="254" height="254" alt="1ade57ac-0602-4de6-8bd8-a6bedccaee41" src="https://github.com/user-attachments/assets/40a32e54-29f7-4497-bd7b-1aa4e2c01c28" /></center>
 
 A [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) plugin that drops a map pin on every Tortollan dive bar needed for the **Dive Bar Front Crawl** housing endeavor ("Visit all of Azeroth's underwater Tortollan Bars").
 
