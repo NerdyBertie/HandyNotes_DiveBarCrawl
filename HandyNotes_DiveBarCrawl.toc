@@ -2,7 +2,7 @@
 ## Title: HandyNotes: Dive Bar Front Crawl
 ## Notes: Adds map pins for every Tortollan dive bar needed for the "Dive Bar Front Crawl" housing endeavor.
 ## Author: NerdyBertie
-## Version: 1.0.4
+## Version: 1.0.5
 ## RequiredDeps: HandyNotes
 ## OptionalDeps: TomTom
 ## IconTexture: Interface\Icons\INV_TortollanSeekers
