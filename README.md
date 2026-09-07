@@ -21,7 +21,10 @@ A [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) plugin that dro
 | Drifter's Dive | The Azure Span |
 **The Watering Hole** isn't included as a pin — it's completed through the portal in your own neighborhood's Beach Party plot ("Stay a While and Glisten"), not a fixed world location.
 ## Install
-Drop the `HandyNotes_DiveBarFrontCrawl` folder into `World of Warcraft/_retail_/Interface/AddOns/`.
+Drop the `HandyNotes_DiveBarCrawl` folder into `World of Warcraft/_retail_/Interface/AddOns/`.
+
+Or Download from [CurseForge](https://www.curseforge.com/wow/addons/handynotes-dive-bar-front-crawl/)
+
 ## Notes
 Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official forum thread on the endeavor's locations, cross-checked against zone wiki pages and Blizzard's own zone/map data.
 If you find my addons useful, consider supporting me on [Ko-fi](https://ko-fi.com/nerdybertie) — totally optional, but always appreciated! You can also find me on [Twitch](https://www.twitch.tv/nerdybertie), [YouTube](https://www.youtube.com/@nerdybertie), or [Discord](https://discord.gg/bXbMR6rzcF) - NerdyBertie's Tinker Workshop
