@@ -1,4 +1,4 @@
--- HandyNotes: Dive Bar Front Crawl
+-- HandyNotes: Dive Bar Crawl
 -- Adds world map pins for every Tortollan dive bar needed to complete the
 -- "Dive Bar Front Crawl" housing endeavor (Visit all of Azeroth's underwater
 -- Tortollan Bars).
