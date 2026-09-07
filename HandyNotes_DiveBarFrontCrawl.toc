@@ -1,0 +1,13 @@
+## Interface: 120100
+## Title: HandyNotes: Dive Bar Front Crawl
+## Notes: Adds map pins for every Tortollan dive bar needed for the "Dive Bar Front Crawl" housing endeavor.
+## Author: NerdyBertie
+## Version: 1.0.5
+## RequiredDeps: HandyNotes
+## OptionalDeps: TomTom
+## IconTexture: Interface\Icons\INV_TortollanSeekers
+## X-Curse-Project-ID: 1683838
+## X-Wago-ID: Q6aR3BKW
+## X-WoWI-ID: 27200
+
+DiveBarFrontCrawl.lua
