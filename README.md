@@ -32,6 +32,9 @@ A [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) plugin that dro
 
 Drop the `HandyNotes_DiveBarCrawl` folder into `World of Warcraft/_retail_/Interface/AddOns/`.
 
+Or install from Curseforge:
+[Dive Bar Front Crawl](https://www.curseforge.com/wow/addons/handynotes-dive-bar-front-crawl)
+
 ## Notes
 
 Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official forum thread on the endeavor's locations, cross-checked against zone wiki pages and Blizzard's own zone/map data.
