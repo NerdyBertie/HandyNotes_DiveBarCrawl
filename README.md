@@ -25,6 +25,7 @@ Drop the `HandyNotes_DiveBarCrawl` folder into `World of Warcraft/_retail_/Inter
 
 Or Download from [CurseForge](https://www.curseforge.com/wow/addons/handynotes-dive-bar-front-crawl/)
 
+
 ## Notes
 Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official Blizzard forum thread on the endeavor's locations, cross-checked against zone wiki pages. Zone map IDs (uiMapIDs) verified against Blizzard's own in-game zone/map data.
 
