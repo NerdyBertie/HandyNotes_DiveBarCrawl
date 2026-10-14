@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120100, 120105
 ## Title: HandyNotes: Dive Bar Front Crawl
 ## Notes: Adds map pins for every Tortollan dive bar needed for the "Dive Bar Front Crawl" housing endeavor.
 ## Author: NerdyBertie
