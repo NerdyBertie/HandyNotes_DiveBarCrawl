@@ -54,7 +54,17 @@ local db = {
         [C(74.11, 7.55)] = { "Torga's Tavern", "Tortollan dive bar in the swamps of Nazmir." },
     },
     [864] = { -- Vol'dun
-        [C(40.57, 1.80)] = { "Heyman's Hideaway", "Tortollan dive bar in Vol'dun." },
+        -- Heyman's Hideaway sits right at the northern edge of Vol'dun's
+        -- mapped zone boundary, close enough that the client can't resolve
+        -- a zone-level map while standing in it -- C_Map.GetBestMapForUnit
+        -- falls all the way back to 875 (the Zandalar *continent* map)
+        -- instead. A coordinate read while standing there is continent-
+        -- relative, not zone-relative, and will not line up with this
+        -- zone's map if pasted in directly. This value was derived by
+        -- converting that continent-relative position back into Vol'dun's
+        -- (864) own coordinate space, and matches a direct measurement
+        -- taken right at the zone/subzone boundary.
+        [C(51.61, 0.06)] = { "Heyman's Hideaway", "Tortollan dive bar in Vol'dun." },
     },
     [1355] = { -- Nazjatar
         [C(57.32, 39.84)] = { "Maedin's Challenge", "Entrance to the underwater dive bar in Nazjatar." },
