@@ -29,4 +29,17 @@ Or Download from [CurseForge](https://www.curseforge.com/wow/addons/handynotes-d
 ## Notes
 Built for Patch 12.1 (Curse of Ula'tek). Bar coordinates sourced from the official Blizzard forum thread on the endeavor's locations, cross-checked against zone wiki pages. Zone map IDs (uiMapIDs) verified against Blizzard's own in-game zone/map data.
 
-If you find my addons useful, consider supporting me on [Ko-fi](https://ko-fi.com/nerdybertie) — totally optional, but always appreciated! You can also find me on [Twitch](https://www.twitch.tv/nerdybertie), [YouTube](https://www.youtube.com/@nerdybertie), or [Discord](https://discord.gg/bXbMR6rzcF) - NerdyBertie's Tinker Workshop
+## More from NerdyBertie
+
+If you enjoy this addon, feel free to check out my other addons!
+
+- [Holiday Herald](https://www.curseforge.com/wow/addons/holidayherald): never miss a holiday again; tips, collectibles, quests, map pins, and secrets for every in-game holiday
+- [HandyNotes: Seeking The Soulstones](https://www.curseforge.com/wow/addons/handynotes-seeking-the-soulstones): map pins for the soulstones in Outland for the Warlock Green Fire questchain
+- [ItemWatch & Shopping List](https://www.curseforge.com/wow/addons/itemwatch-bag-item-counter): track how many of an item you have toward a goal, with a recipe shopping list that counts your bags, bank and warband bank
+- [Boomkin Buff Watcher](https://www.curseforge.com/wow/addons/boomkin-buff-watcher): keeps Balance Druids on top of their Astral Power and Eclipse state
+- [Chum Chimes](https://www.curseforge.com/wow/addons/chumchimes): a friendly chime when guildies or friends are in your zone or nearby
+- [Pinkies Up!](https://www.curseforge.com/wow/addons/pinkies-up): achievement gratses for everyone, with 40-plus cute sayings
+
+Find them all by searching NerdyBertie on CurseForge, WoWInterface, WoWUp, or Wago.
+
+If you find this addon, or any of my other addons, useful, consider supporting me on [Ko-fi](https://ko-fi.com/nerdybertie) — totally optional, but always appreciated! You can also find me on [Twitch](https://www.twitch.tv/nerdybertie), [TikTok](https://www.tiktok.com/@nerdybertie), [YouTube](https://www.youtube.com/@nerdybertie), or [Discord](https://discord.com/invite/bXbMR6rzcF) - NerdyBertie
